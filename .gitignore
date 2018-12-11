@@ -1,6 +1,9 @@
 =======
 # GitHub .gitignore boilerplate from https://github.com/github/gitignore/blob/master/Python.gitignore
 
+# lock files
+.~lock*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
