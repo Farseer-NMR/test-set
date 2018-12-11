@@ -1,10 +1,10 @@
 # test-set
 
-Dummy and controlled data sets to test Farseer-NMR functionalities.
+**Dummy** and **controlled** data sets to test Farseer-NMR functionalities.
 
 # How to use
 
-Find in this repository different peaklist dataset and different Farseer-NMR config JSON files for the different tests.
+Find in this repository different peaklist datasets and different Farseer-NMR JSON config files for the different tests.
 
 The `pkls_*` folders contain subfolders `0_*`, `1_*`, _etc_, that contain datasets of peaklists and config files; there is also README.md files explaining what is under test and what to expect.
 
