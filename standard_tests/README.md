@@ -20,3 +20,8 @@ Base peaklist dataset was build as follows:
     - `...`
 
 The tests are variatons of this dataset and confi file.
+
+## 1_zz_axis
+
+- uses the same data set of 0_basic with some variations
+- tests functionalities along the zz_axis
