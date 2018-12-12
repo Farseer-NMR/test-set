@@ -41,3 +41,8 @@ Inside each `test_` folder there is a `spectra` folder and `JSON` configuration 
     - Lys60 in pkl_10
     - Lys60 in pkl_11 increased to 0.2 ppm per dimension.
     - Val100 reapears in pkl_19
+
+## test_5
+
+- same as test_4
+- will all bar plots
