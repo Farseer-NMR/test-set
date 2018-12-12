@@ -2,6 +2,10 @@
 
 Different sets of FASTA files, peaklists and other data designed to test different functionalities.
 
+## Templates
+
+Template files that can be used to generate datasets.
+
 ## FASTA files
 
 List of `.fasta` files generated; these are stored in each peaklist data set.
