@@ -1,4 +1,4 @@
-# 1_across_dimensions
+# 1_zz_axis
 
 Base peaklist dataset was build as follows:
 
