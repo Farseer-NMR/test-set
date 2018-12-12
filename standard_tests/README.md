@@ -15,3 +15,8 @@ Inside each `test_` folder there is a `spectra` folder and `JSON` configuration 
 ## 2_yy_axis
 
 - tests functionalities along the yy_axis
+
+## 3_xyz
+
+- tets dataset along the three dimensions
+- with _comparisons_.
