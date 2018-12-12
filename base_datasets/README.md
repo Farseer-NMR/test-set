@@ -29,5 +29,5 @@ List of `.fasta` files generated; these are stored in each peaklist data set.
 
 ### pkl_set_1
 
-- 5 peaklists in each dimension
+- 3 peaklists in each dimension
 - protein fasta: `fasta_0.fasta`
