@@ -1,6 +1,6 @@
 # Base datasets
 
-Different sets of peaklists designed to test different functionalities.
+Different sets of FASTA files, peaklists and other data designed to test different functionalities.
 
 ## FASTA files
 
