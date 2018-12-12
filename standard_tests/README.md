@@ -25,3 +25,8 @@ The tests are variatons of this dataset and confi file.
 
 - uses the same data set of 0_basic with some variations
 - tests functionalities along the zz_axis
+
+## 2_yy_axis
+
+- uses the same data set of 0_basic with some variations
+- tests functionalities along the yy_axis
