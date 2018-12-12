@@ -1,10 +1,10 @@
+# CCPNMR v2 peaklist formats
+
 This folder contains dummy NMR peaklist files in the [CcpNmr Analysis v2](https://www.ccpn.ac.uk/v2-software/software/analysis) format.  
 
 Peaklists represent a series of 2D (1H-15N) NMR experiments.
 
-## Test set
-
-# 0_basic
+## 0_basic
 
 Base peaklist dataset was build as follows:
 
