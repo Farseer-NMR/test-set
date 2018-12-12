@@ -299,9 +299,9 @@
     },
     "PosF1_settings": {
         "calccol_name_PosF1_delta": "H1_delta",
-        "calcs_PosF1_delta": false,
+        "calcs_PosF1_delta": true,
         "yy_label_PosF1_delta": "ppm",
-        "yy_scale_PosF1_delta": 0.2
+        "yy_scale_PosF1_delta": 1
     },
     "PosF2_settings": {
         "calccol_name_PosF2_delta": "N15_delta",
