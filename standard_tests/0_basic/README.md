@@ -27,7 +27,7 @@ Routines performed along the _xx-axis_.
     - Ala1 in pkl_01
     - Lys60 in pkl_10
     - Lys60 in pkl_11 increased to 0.2 ppm per dimension.
-    - Val100 reapears in pkl_19
+    - Val95 reapears in pkl_19
 
 ## test_5
 
