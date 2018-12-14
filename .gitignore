@@ -1,6 +1,10 @@
 =======
 # GitHub .gitignore boilerplate from https://github.com/github/gitignore/blob/master/Python.gitignore
 
+# Backbone and sidechais
+Backbone/
+Sidechains/
+
 # lock files
 .~lock*
 
