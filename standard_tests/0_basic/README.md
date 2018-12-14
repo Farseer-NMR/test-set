@@ -32,4 +32,14 @@ Routines performed along the _xx-axis_.
 ## test_5
 
 - same as test_4
+- Phe70 in pkl_00 (makes CSPs in whole series)
 - will all bar plots
+
+## test_6
+
+- same as test_5
+- no FASTA
+
+## test_7
+
+- use pkl_set_2

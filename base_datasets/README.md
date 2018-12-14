@@ -31,3 +31,9 @@ List of `.fasta` files generated; these are stored in each peaklist data set.
 
 - 3 peaklists in each dimension
 - protein fasta: `fasta_0.fasta`
+
+### pkl_set_2
+
+- `pkl_00.csv` same as pkl_set_0
+- added sidechains for Gln, Asn and Trp
+- added CSPs to sidechain residues in `pkl_01.csv`
